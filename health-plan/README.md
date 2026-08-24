@@ -17,6 +17,8 @@
 | [workout-plan.md](./workout-plan.md) | 训练规划(家庭哑铃 + 公司晨跑) |
 | [medical-checkup.md](./medical-checkup.md) | 医疗随访清单 + 上海医院推荐 |
 | [daily-checklist.md](./daily-checklist.md) | 每日打卡清单 + 周复盘模板 |
+| [import-guide.md](./import-guide.md) | 如何把 checklist 一键导入 iPhone/Apple Watch |
+| [recovery-checklist.ics](./recovery-checklist.ics) | iCloud 日历一键导入文件(19 个循环提醒) |
 
 ## 六大维度概览
 
